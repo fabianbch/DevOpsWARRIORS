@@ -1,7 +1,6 @@
 # DevOpsWARRIORS
+<img src="[img_chania.jpg](https://public.boxcloud.com/api/2.0/internal_files/1211755853573/versions/1322037838373/representations/png_paged_2048x2048/content/1.png" width="300" height="300"><br>
 DevOpsWARRIORS es un grupo de entusiastas colaboradores con el afán de incrementar el conocimiento de DevOps y DevSecOps.
-
-![](https://app.box.com/s/dbbdqnitsopag93ao2uembvzwveihlrf){width='250px'}
 
 .:: NORMAS ::.
 1. Mantener el respeto y cordialidad entre todos.
