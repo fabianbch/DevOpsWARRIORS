@@ -1,6 +1,8 @@
-# DevOpsWARRIORS
+# DevOps WARRIORS
 <img src="https://www.gworks-ec.com/nia/uploads/2023/05/DevOps-Warriors.png" width="300"/>
-DevOpsWARRIORS es un grupo de entusiastas colaboradores con el afán de incrementar el conocimiento de DevOps y DevSecOps.
+Somos un grupo de entusiastas colaboradores, 
+con el afán de incrementar el conocimiento en 
+tecnologías DevOps y DevSecOps.
 
 .:: NORMAS ::.
 1. Mantener el respeto y cordialidad entre todos.
