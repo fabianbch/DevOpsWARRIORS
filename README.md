@@ -4,6 +4,7 @@ Somos un grupo de entusiastas colaboradores,
 con el afán de incrementar el conocimiento en 
 tecnologías DevOps y DevSecOps.
 
+<p>
 .:: NORMAS ::.
 1. Mantener el respeto y cordialidad entre todos.
 2. No generar un ambiente hostil o denigrante.
@@ -11,3 +12,4 @@ tecnologías DevOps y DevSecOps.
 4. Generar y compartir contenido de valor.
 5. Informar al admin cualquier situación fuera de lugar.
 6. Se eliminará del grupo a una persona que no cumpla con las normas.
+</p>
