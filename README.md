@@ -1,5 +1,5 @@
 # DevOpsWARRIORS
-![](https://www.gworks-ec.com/nia/uploads/2023/05/DevOps-Warriors.png){width="250"}
+<img src="https://www.gworks-ec.com/nia/uploads/2023/05/DevOps-Warriors.png" width="300"/>
 DevOpsWARRIORS es un grupo de entusiastas colaboradores con el afán de incrementar el conocimiento de DevOps y DevSecOps.
 
 .:: NORMAS ::.
