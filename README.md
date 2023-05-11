@@ -1,6 +1,8 @@
 # DevOpsWARRIORS
 DevOpsWARRIORS es un grupo de entusiastas colaboradores con el afán de incrementar el conocimiento de DevOps y DevSecOps.
 
+https://app.box.com/s/dbbdqnitsopag93ao2uembvzwveihlrf
+
 .:: NORMAS ::.
 1. Mantener el respeto y cordialidad entre todos.
 2. No generar un ambiente hostil o denigrante.
